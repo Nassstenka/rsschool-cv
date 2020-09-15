@@ -1,6 +1,6 @@
 # Git-Markdown-Task in RSSchools
 ## Anastasiya Satsiuk
-
+![Profile image](https://sun9-59.userapi.com/EYk1KSrtVdCsDWZhe8d6lBFMG0b7nMQI60epfQ/gHjHUZPWFMQ.jpg)
 ## Contact info:
     nastyasatsyuk@yandex.by
     +375-29-808-10-32
